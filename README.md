@@ -13,4 +13,15 @@
 
 - npm audit : аудит зависимостей
 
-# GIT
+# ОСНОВНЫЕ КОМАНДЫ GIT
+
+- git clone https://github.com/newmarkwork/nmark-template-builder.git : клонирование репозитория локально
+- git pull : обновление состояния
+- git status : проверка локальных изменений
+- git add all : фикс локальных изменений
+- git commit -m "COMMIT_NAME" : создание комита
+- git push origin : отправка изменений в репозиторий
+- git checkout -b "BRANCH_NAME" : создание новой ветки ***ИМЯ АВТОРА_ПРЕДНАЗНАЧЕНИЕ ВЕТКИ***
+- git branch : список текущих веток
+- git checkout "BRANCH_NAME" : переход в ветку
+- git stash : отмена изменений
